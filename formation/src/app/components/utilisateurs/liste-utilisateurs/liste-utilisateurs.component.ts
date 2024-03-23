@@ -23,6 +23,12 @@ utilisateurs: Utilisateur[]=[
     prenom:'ww',
     phone:456789123
     },
+    {
+      id:'003',
+      nom:'utilisateur3',
+      prenom:'ww',
+      phone:545444
+      }
 ];
 constructor() {}
 ngOnInit(): void {
